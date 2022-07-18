@@ -10,7 +10,7 @@ Ehungry app is all you need for your food cravings. Ehungry app has mouth-wateri
 1.this is the opening screen.
 
 
-<img src="utter-app/blob/master/Screenshots/IMG_7252.PNG" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400" />
+<img src="https://github.com/yagyansh181/Ehungry/blob/master/Screenshots/IMG_7252.PNG?raw=true" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400" />
 
 
 2.this is the login and sign up page for now google and facebook auth is not active but we are working for the integration in V2.
